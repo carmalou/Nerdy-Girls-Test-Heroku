@@ -1,0 +1,23 @@
+{
+  "name": "nerdy-girls-test-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carmalou/Nerdy-Girls-Test-Heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carmalou/Nerdy-Girls-Test-Heroku/issues"
+  },
+  "homepage": "https://github.com/carmalou/Nerdy-Girls-Test-Heroku#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "path": "^0.12.7"
+  }
+}
